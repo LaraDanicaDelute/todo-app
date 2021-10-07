@@ -4,18 +4,6 @@
   "description": "todo app",
   "main": "index.js",
   "scripts": {
-    "delete_film": "node dbdelete_film.js",
-    "delete_rental": "node dbdelete_customer.js",
-    "delete_customer": "node dbdelete_customer.js",
-    "update_film": "node dbupdate_film.js",
-    "update_rental": "node dbupdate_rental.js",
-    "update_customer": "node dbupdate_customer.js",
-    "insert_film": "node dbinsert_film.js",
-    "insert_retnal": "node dbinsert_rental.js",
-    "insert_customer": "node dbinsert_customer.js",
-    "select_film": "node dbselect_film.js",
-    "select_rental": "node dbselect_rental.js",
-    "select_customer": "node dbselect_customer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
